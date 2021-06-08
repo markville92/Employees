@@ -1,0 +1,16 @@
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.csproj.AssemblyReference.cache
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.AssemblyInfoInputs.cache
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.AssemblyInfo.cs
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.exe
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.deps.json
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.runtimeconfig.json
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.runtimeconfig.dev.json
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.dll
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\ref\Employees.dll
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\bin\Debug\net5.0\Employees.pdb
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.dll
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\ref\Employees.dll
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.pdb
+C:\Users\cloud\Documents\Projects\Inheritance\Employees\obj\Debug\net5.0\Employees.genruntimeconfig.cache
